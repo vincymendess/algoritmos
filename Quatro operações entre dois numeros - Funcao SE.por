@@ -1,0 +1,30 @@
+programa {
+  funcao inicio() {
+
+    //Declaração de variáveis
+    real n1, n2, soma, subtracao, multiplicacao, divisao
+
+    //Entrada
+    escreva("Escreva o primeiro número: ")
+    leia(n1)
+    escreva("Escreva o segundo número: ")
+    leia(n2)
+    
+    //Processamento
+    soma = n1 + n2
+    subtracao = n1 - n2
+    multiplicacao = n1 * n2
+
+    escreva("Soma: ", soma, "\n")
+    escreva("Subtração: ", subtracao, "\n")
+    escreva("Multiplicação: ", multiplicacao, "\n")
+   
+    se (n2 > 0)
+    {
+      divisao = n1 / n2
+      escreva("Divisão: ", divisao, "\n")
+    }
+    senao
+    escreva("Impossível dividir um número por 0!", "\n")
+  }
+}
