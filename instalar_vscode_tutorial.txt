@@ -7,3 +7,8 @@ Passo a passo para fazer o download do VS Code:
 2. Clique no botão “Download para Windows”, “Download para macOS” ou “Download para Linux”, dependendo do seu sistema operacional.
 3. Assim que o download for concluído, abra o instalador e siga as instruções para instalar o VS Code.
 
+Passo a passo de instalação do VS Code:
+1. Durante o processo de instalação, marque a caixa que diz "Adicionar 'Abrir com Código' ao menu de contexto" (isso tornará mais fácil abrir arquivos e pastas com o VS Code).
+2. Escolha a opção de instalação personalizada e selecione quaisquer recursos adicionais que deseja instalar.
+3. Continue com o processo de instalação, fazendo personalizações adicionais conforme necessário.
+4. Assim que a instalação for concluída, abra o VS Code e verifique se ele está instalado corretamente.
