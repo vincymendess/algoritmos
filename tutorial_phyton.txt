@@ -2,3 +2,8 @@ Iniciando tutorial de Python
 
 Explicando o que é Python: Python é uma linguagem de programação interpretada de alto nível, conhecida por sua legibilidade e simplicidade. Ele pode ser usado para uma ampla gama de aplicações, incluindo desenvolvimento web, análise de dados, inteligência artificial e muito mais.
 
+Passo a passo fazer o download:
+1. Acesse o site oficial do Python em https://www.python.org/.
+2. Passe o mouse sobre a guia "Downloads" e selecione a versão do Python apropriada para o seu sistema operacional.
+3. Assim que o download for concluído, abra o instalador e siga as instruções para instalar o Python.
+
