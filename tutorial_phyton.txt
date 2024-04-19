@@ -7,3 +7,8 @@ Passo a passo fazer o download:
 2. Passe o mouse sobre a guia "Downloads" e selecione a versão do Python apropriada para o seu sistema operacional.
 3. Assim que o download for concluído, abra o instalador e siga as instruções para instalar o Python.
 
+Passo a passo de instalação:
+1. Durante o processo de instalação, marque a caixa que diz "Adicionar Python ao PATH" (isso tornará mais fácil executar o Python a partir da linha de comando).
+2. Escolha a opção de instalação personalizada e selecione o gerenciador de pacotes “pip” para instalá-lo.
+3. Continue com o processo de instalação, fazendo personalizações adicionais conforme necessário.
+4. Assim que a instalação for concluída, abra um novo prompt de comando e digite “python” para verificar se está instalado corretamente. Você deverá ver o prompt do interpretador Python, que se parece com isto: '>>>'
