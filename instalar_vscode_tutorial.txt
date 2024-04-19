@@ -2,3 +2,8 @@ Iniciando tutorial de VS Code
 
 Explicando o que é VS Code: VS Code é um editor de código aberto gratuito desenvolvido pela Microsoft. Ele oferece suporte a uma ampla variedade de linguagens de programação, incluindo Python, e vem com recursos integrados, como depuração, integração Git e destaque de sintaxe.
 
+Passo a passo para fazer o download do VS Code:
+1. Acesse o site oficial do VS Code em https://code.visualstudio.com/.
+2. Clique no botão “Download para Windows”, “Download para macOS” ou “Download para Linux”, dependendo do seu sistema operacional.
+3. Assim que o download for concluído, abra o instalador e siga as instruções para instalar o VS Code.
+
