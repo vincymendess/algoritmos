@@ -12,3 +12,16 @@ Passo a passo de instalação:
 2. Escolha a opção de instalação personalizada e selecione o gerenciador de pacotes “pip” para instalá-lo.
 3. Continue com o processo de instalação, fazendo personalizações adicionais conforme necessário.
 4. Assim que a instalação for concluída, abra um novo prompt de comando e digite “python” para verificar se está instalado corretamente. Você deverá ver o prompt do interpretador Python, que se parece com isto: '>>>'
+
+Como configurar o virtualenv:
+Virtualenv é uma ferramenta que permite criar ambientes Python isolados. Isto é útil para gerenciar dependências e evitar conflitos entre diferentes projetos.
+
+1. Abra um terminal ou prompt de comando e navegue até o diretório do seu projeto.
+2. Digite o seguinte comando para instalar o virtualenv:
+	1. pip install virtualenv
+3. Depois que o virtualenv estiver instalado, digite o seguinte comando para criar um novo ambiente virtual:
+	1. virtualenv venv
+4. Para ativar o ambiente virtual, digite o seguinte comando:
+	1. source venv/bin/activate (macOS/Linux)
+	2. venv\Scripts\activate (Windows)
+5. Depois que o ambiente virtual for ativado, você poderá instalar pacotes Python usando pip sem afetar a instalação global do Python.
