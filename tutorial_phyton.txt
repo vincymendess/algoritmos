@@ -1,2 +1,4 @@
 Iniciando tutorial de Python
 
+Explicando o que é Python: Python é uma linguagem de programação interpretada de alto nível, conhecida por sua legibilidade e simplicidade. Ele pode ser usado para uma ampla gama de aplicações, incluindo desenvolvimento web, análise de dados, inteligência artificial e muito mais.
+
